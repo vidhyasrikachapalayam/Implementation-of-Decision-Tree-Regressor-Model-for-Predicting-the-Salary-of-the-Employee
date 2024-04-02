@@ -59,8 +59,32 @@ dt.predict([[5,6]])
 
 ## Output:
 data.head()
+
 ![image](https://github.com/vidhyasrikachapalayam/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119477817/8aa49f07-7195-4acc-83e3-a07d6482301a)
 
+data.info()
+
+![image](https://github.com/vidhyasrikachapalayam/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119477817/e9a5d1f3-7313-4fbe-b482-7aeb537225c8)
+
+data.isnull().sum()
+
+![image](https://github.com/vidhyasrikachapalayam/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119477817/6e54f549-8f09-4065-bfd7-b9ce22ac7ac8)
+
+data.head() for salary
+
+![image](https://github.com/vidhyasrikachapalayam/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119477817/cb8dad28-427d-4885-896f-2045166954e2)
+
+MSE value
+
+![image](https://github.com/vidhyasrikachapalayam/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119477817/4612da44-b1e3-4326-8329-8e24e5fc88ae)
+
+r2 value
+
+![image](https://github.com/vidhyasrikachapalayam/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119477817/834098d3-e378-4ecb-92f5-1c3c2d334e0e)
+data prediction
+
+
+![image](https://github.com/vidhyasrikachapalayam/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119477817/42d4688e-8bb6-4d71-9cc9-178275938a47)
 
 
 ## Result:
