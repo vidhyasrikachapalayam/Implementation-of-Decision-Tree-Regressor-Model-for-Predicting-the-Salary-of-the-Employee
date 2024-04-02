@@ -85,6 +85,7 @@ MSE value
 r2 value
 
 ![image](https://github.com/vidhyasrikachapalayam/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119477817/834098d3-e378-4ecb-92f5-1c3c2d334e0e)
+
 data prediction
 
 
